@@ -27,4 +27,4 @@ I chose these two datsets because of the difference in how long their respective
 
 ### Future
 
-I plan to test more varied models and more datasets to see differences in accuracy for the models depending on the length of time the game has been available on Steam.
+I plan to test more varied models and more datasets to see differences in accuracy for the models depending on the length of time the game has been available on Steam. I also hope to make it easier for other people to make their own game predictions by making a website or browser extension that tells them the predicted sale date depending on their chosen game (very far away).
