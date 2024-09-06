@@ -1,4 +1,4 @@
-# SteamSalePredictor
+# Steam Sale Predictor
 Predicts when a game will go on sale on Steam using historical price data from SteamDB
 
 ### Why make this?
